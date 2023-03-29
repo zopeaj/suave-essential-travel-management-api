@@ -1,0 +1,8 @@
+User
+AirlineReservation
+Hotel
+Bookings
+Trip: Business, Economy
+Flight
+  id
+  name
